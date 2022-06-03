@@ -15,9 +15,13 @@
   <br />
   <br />
 
-<p align="left"> <a href="https://twitter.com/adelin_carabas" target="blank"><img src="https://img.shields.io/twitter/follow/adelin_carabas?logo=twitter&style=for-the-badge" alt="adelin_carabas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adelin_carabas" target="blank"><img src="https://img.shields.io/twitter/follow/adelin_carabas?logo=twitter&style=for-the-badge" alt="adelin_carabas" /></a> 
+</p>
 
-- 👨‍💻 All of my projects are available at [https://adelincarabas.github.io/Portfolio/](https://adelincarabas.github.io/Portfolio/)
+ - 👨‍💻 All of my projects are available at my website:
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://adelincarabas.github.io/Portfolio/)](https://adelincarabas.github.io/Portfolio/)
+![](https://visitor-badge.glitch.me/badge?page_id=adelincarabas.Portfolio)
+
 
 - 📄 Know about my experiences [resume link](resume link)
 
